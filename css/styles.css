@@ -1,0 +1,6 @@
+main {
+    background-color: lightgray;
+    border-radius: 8px; /* For Rounded corners */
+    margin: 5vmin;
+    padding: 5vmin;
+}
